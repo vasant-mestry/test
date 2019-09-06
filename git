@@ -1,0 +1,93 @@
+git checkout -b
+
+git add
+
+git status
+
+git commit -m '
+comment
+'
+
+git push origin local_branch_name
+
+
+git dif -changes in file
+green add
+red removed content => status, commit, push
+
+rvert changes changes that not required
+discardchangs
+git checkout app.js(filename)
+
+git app.js
+
+
+git log=> all the history of the branch
+
+(origin=> server, head)
+
+
+git checkout master =>move to master
+git log
+
+merge changes
+git merge branch-name=> 
+
+
+local branch i s2commits aheed
+
+	git push origin master
+
+======================================+++++++++===============================+++++++++++++========+++++++++
+Login pagepush it to prod
+git tag -a 1.0.0 -m "login form"   on local
+
+git push origin (version) 1.0.0 
+
+==============================================================================================================
+
+add roles:- pass reviews
+
+Pull request==>
+based on certain params
+
+git checkout login
+ touch=> add=>index
+
+=====================================================
+git reset --hard  #hashcode
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
